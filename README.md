@@ -1,3 +1,4 @@
 # reunitedTranslation
 This repository contains translation for myTeardrop
-## I want to contribute
+## Contribution
+You can contribute by forking, modify, and send a pull request.
