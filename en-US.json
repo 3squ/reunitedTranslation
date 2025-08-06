@@ -1,0 +1,300 @@
+{
+    "settings": {
+        "HQSprites": "HD Sprites",
+        "music": "Music",
+        "minigameMusic": "Minigame Music",
+        "minigameCostumes": "Minigame Costumes",
+        "sfx": "SFX",
+        "enableReload": "Enabling this requires a reload of the game!",
+        "disableReload": "Disabling this requires a reload of the game!",
+        "yes": "Yes",
+        "no": "No",
+        "experimentalCostumes": "Experimental Costumes",
+        "safeScreenArea": "Safe Screen Area",
+        "credits": "Credits",
+        "sfxVolume": "SFX Volume",
+        "musicVolume": "Music Volume",
+        "advanced": "Advanced",
+        "advancedSettings": "Advanced Settings",
+        "highAnimationFramerate": "120hz Animation",
+        "highAnimationFramerateMessage": "This feature is EXPERIMENTAL, and animations might look weird with it on. ",
+        "buttonSize": "Button Size",
+        "align": "Align",
+        "all": "All",
+        "leftOrRight": "Left/Right",
+        "reset": "Reset",
+        "gtttatintControllerProfile": "GTTTATINT Controller Profile",
+        "backup": "Backup",
+        "download": "Download",
+        "upload": "Upload",
+        "saveFileWarning": "This will overwrite your current save file and is an irreversible action.",
+        "brokenSaveFile": "Not genuine save file. Action cancelled",
+        "workingSaveFile": "Success! Reloading game...",
+        "clear": "Clear",
+        "saveFileTools": "Savefile tools",
+        "advancedSaveFileTools": "Advanced Savefile tools",
+        "faceMatchIncludeFinished": "Include completed face puzzles"
+    },
+    "intro": {
+        "mail": "You've got mail! Click/Tap on it.",
+        "hey": "HEY!",
+        "who": "Who was that?"
+    },
+    "dialogue": {
+        "greet": "Hi, I am teardrop!\nThank you for looking\nafter my package.\nSorry if I startled\nyou!",
+        "greet2": "What a great start!\nI'm Teardrop.\nNice to meet you!",
+        "yoyleberryinvitation": "Let's snack on\nsome regular cake!",
+        "fridgeHelp": "Go to the fridge using the button below, then drag a food item to the plate!",
+        "wheelHelp": "Open the Wheel of Fun by holding down the happiness button."
+    },
+    "food": {
+        "regularcake": "Regular Cake",
+        "icecreamcake": "Ice Cream Cake",
+        "icycake": "Icy Cake",
+        "limecake": "Lime Cake",
+        "blueberry": "Blueberry",
+        "strawberry": "Strawberry",
+        "strawberrycake": "Strawberry Cake",
+        "candy": "Candy Bar",
+        "sleeppotion": "Awakening Potion",
+        "maxpotion": "Max Potion",
+        "sourlemon": "Lemon",
+        "fries": "Fries",
+        "donut": "Donut",
+        "burntTaco": "Burnt Taco",
+        "heartChocolate": "Heart Chocolate"
+    },
+    "ui": {
+        "shop": "SHOP",
+        "fridge": "FRIDGE",
+        "owned": "OWNED",
+        "preview": "PREVIEW",
+        "get": "GET",
+        "wear": "WEAR",
+        "wearing": "WEARING",
+        "continue": "Continue",
+        "mph": "mph",
+        "score": "Score",
+        "skipIntro": "Skip Intro",
+        "gameOver": "Game Over!",
+        "gamePaused": "Game Paused",
+        "comingsoon": "more coming soon..",
+        "info": "INFO",
+        "artist": "Artist",
+        "achievements": "Achievements",
+        "games": "Games",
+        "wardrobe": "Wardrobe",
+        "settings": "Settings",
+        "reload": "Reload",
+        "cancel": "Cancel",
+        "home": "Home",
+        "play": "Play",
+        "newLevel": "New level",
+        "continueUpperCase": "CONTINUE",
+        "notEnoughCoins": "Not enough coins!",
+        "notEnoughSpace": "Not enough space!",
+        "altitude": "altitude",
+        "accuracy": "Accuracy",
+        "leave": "Leave",
+        "next": "Next",
+        "average": "Average",
+        "ignore": "Ignore",
+        "language": "Language",
+        "translator": "Translator",
+        "rotateScreen": "Rotate your screen to play this minigame!",
+        "dropTennisCompleted": "Completed!"
+    },
+    "message": {
+        "obtainCostume": "To obtain this costume, complete the {achievement} achievement.",
+        "hungry": "Teardrop is really hungry! Let's feed her.",
+        "sleepy": "Teardrop is feeling a little sleepy. Let her get some rest!",
+        "sleeping": "Teardrop is taking a nap.",
+        "updateWarning": "New update is out!\nCurrent version: {currentVersion}\nLatest version: {latest}\nThe game will be automatically updated after reloading.",
+        "foodRequiredLevel": "You need to reach {level} to buy this item!",
+        "foodRequiredCostume": "You need to own {costume} to buy this item!"
+    },
+    "crashHandler": {
+        "whoops": "Whoops!\nmyTeardrop has run into a problem...",
+        "description": "The game might work fine if you continue,\nbut I recommend you to reload anyway.\n\nIf the problem persists, please report the error\nby copying the error text and sending it\n over to the discord server.",
+        "copyErrorText": "Copy Error Text"
+    },
+    "games": {
+        "gtttatint": "GTTTATINT101",
+        "dropdodge": "Drop Dodge",
+        "tennis": "Drop Tennis",
+        "match": "Face Match",
+        "cakewalk": "CAKEWALK",
+        "oddDroplets": "Odd Droplets",
+        "comingsoon": "..."
+    },
+    "costumes": {
+        "none": "NONE",
+        "uglysweater": "Ugly Sweater",
+        "uglysweater2": "tennis sweater",
+        "_td_costume1": "Water Moth",
+        "_td_costume2": "Marauder Droplet",
+        "_td_costume3": "La larme",
+        "_td_costume4": "Wine Drop",
+        "_td_costume5": "Blood Drop",
+        "honeydrop": "Honey Drop",
+        "orangedrop": "Orange Drop",
+        "drippydrop": "Drippy Drop",
+        "glassdrop": "Glass Drop",
+        "classic": "The Silent Type",
+        "golden": "Golden Drop",
+        "light": "Light Teardrop",
+        "magician": "Magician Drop",
+        "oyuidrop": "Oyui Drop",
+        "lemon": "Lemonade",
+        "sportsdrop": "Sportsdrop",
+        "limedrop": "Lime Drop",
+        "jockdrop": "Jock Drop",
+        "energydrink": "Energy Drink",
+        "chocodrop": "Choco-Drop",
+        "pineapple": "Pineapple",
+        "mintdrop": "Minty Drop",
+        "oildrop": "Oil Drop",
+        "knightdrop": "Knight Drop",
+        "galaxydrop": "Galaxy Drop",
+        "sundrop": "Sun Drop",
+        "coladrop": "Cola Drop",
+        "tropical": "Tropical Drop",
+        "moondrop": "Moon Drop",
+        "clouddrop": "Cloud Drop",
+        "sealdrop": "Seal Drop",
+        "aoracedrop": "Aroacedrop",
+        "gumdrop": "Gumdrop",
+        "softdrink": "Softdrink Drop",
+        "glorp": "Glorplet",
+        "waffle": "Waffle Drop",
+        "popdrop": "Popdrop",
+        "potiondrop": "Potion Drop",
+        "voiddrop": "Void Drop",
+        "mariposa": "Mariposa Drop",
+        "snowdrop": "Snow Drop",
+        "dinodrop": "Dino Drop!",
+        "_td_costume7": "Mistletoe!",
+        "snowglobe": "Snowglobe Drop",
+        "snowflake": "Snowflake Drop",
+        "treedrop": "Tree Drop",
+        "_td_costume8": "TEARSHARK!!!",
+        "_td_costume9": "Love Syrup!",
+        "pandrop": "Pandrop",
+        "transdrop": "Transdrop",
+        "enbian": "Enbian Drop",
+        "nonbinary": "Non-binary Drop",
+        "arofluxdrop": "Aroflux Drop",
+        "baguette": "Baguette-Drop",
+        "starwizard": "Star Wizard Drop",
+        "placeholderdrop": "Placeholder Drop",
+        "appledrop": "Apple Drop",
+        "leekdrop": "Leek Drop",
+        "beerdrop": "Beer Drop"
+    },
+    "costumeCategory": {
+        "all": "ALL",
+        "september2024": "September 2024",
+        "december2024": "December 2024",
+        "june2025": "June 2025"
+    },
+    "get2763intennis": {
+        "title": "Drop Tennis",
+        "description": "Get 2763 score in Drop Tennis minigame"
+    },
+    "winagameoftennis": {
+        "title": "Drop Tennis",
+        "name": "Drop Tennis Victory",
+        "description": "Win a game of Drop Tennis"
+    },
+    "get2763gtttatint": {
+        "title": "GTTTATINT",
+        "description": "Get 2763 score in GTTTATINT"
+    },
+    "slapTD2763": {
+        "title": "Ultimate Slapper",
+        "description": "Slap Teardrop 2763 times"
+    },
+    "get2763": {
+        "title": "2763...",
+        "description": "Complete every achievement about the number 2763"
+    },
+    "lemons": {
+        "title": "Lemon Factory",
+        "name": "Lemon Factory",
+        "description": "Feed Teardrop 100 lemons"
+    },
+    "get10perfectsCAKEWALK": {
+        "title": "Easy as Cake!",
+        "description": "Get 10 perfects in a row on CAKEWALK"
+    },
+    "2763lemons": {
+        "title": "Soured out!",
+        "name": "Soured out!",
+        "description": "Feed Teardrop 2763 lemons"
+    },
+    "perfectfacematch": {
+        "title": "No difference",
+        "name": "No difference",
+        "description": "Get a 100% in Face Match"
+    },
+    "10energydrinks": {
+        "title": "No sleep",
+        "name": "No sleep",
+        "description": "Feed Teardrop 10 Awakening Potions"
+    },
+    "5minuteGTTTATINT": {
+        "title": "Leg Day",
+        "name": "Leg Day",
+        "description": "Spend 2 minutes at 2mph or higher in GTTTATINT in a single game"
+    },
+    "blockplatformgtttatint": {
+        "title": "GTTTATINT",
+        "name": "GTTTATINT",
+        "description": "Find Blocky's family in GTTTATINT"
+    },
+    "tauntLogo": {
+        "title": "Obscure mischief",
+        "name": "Obscure mischief",
+        "description": "Taunt the logo seen in the settings menu"
+    },
+    "oddDroplets40": {
+        "title": "The Detective",
+        "name": "The Detective",
+        "description": "Find the Odd Droplet 40 times in a row"
+    },
+    "750altitudeCAKEWALK": {
+        "title": "Mile High Pie!",
+        "name": "Mile High Pie!",
+        "description": "Get to 500 altitude in CAKEWALK"
+    },
+    "get15000gtttatint": {
+        "title": "Reach the Galaxy",
+        "name": "Reach the Galaxy",
+        "description": "Get 15000 score in GTTTATINT"
+    },
+    "1000altitudeCAKEWALK": {
+        "title": "Too High!!!",
+        "name": "Too High!!!",
+        "description": "Get to 1000 altitude in CAKEWALK"
+    },
+    "aprilFools_boom": {
+        "title": "BOOM!!!",
+        "name": "BOOM!!!",
+        "description": "Explode your Teardrop!"
+    },
+    "brew": {
+        "title": "Brewing Master",
+        "name": "Brewing Master",
+        "description": "Feed Teardrop 50 lemons while wearing the Wine Drop costume"
+    },
+    "score": {
+        "perfect": "PERFECT",
+        "good": "Good!",
+        "nice": "Nice!",
+        "meh": "Meh",
+        "bad": "BAD"
+    },
+    "event": {
+        "valentinesPromo": "Happy Valentines Day! To celebrate, we've brought 2 new costumes to the game. Buy the little sillies before they disappear for an indefinite amount of time!"
+    }
+}
