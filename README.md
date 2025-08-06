@@ -1,2 +1,3 @@
 # reunitedTranslation
-Translation Files I guess
+This repository contains translation for myTeardrop
+## I want to contribute
